@@ -1,0 +1,17 @@
+before at 3700 Hz
+V_noload= 3.4V
+V_Load = 3.4V
+
+before at 3700 but far
+with load = 3V
+3.2V 
+
+load error 6.7
+
+in sim 2.3 no load 
+sim  2.34V with load
+
+
+total system 2.5V output V_MAX peak to peak 1.6 
+no micro  mic 2 3.3V mic 1 3V
+with micro at max mic 2 at 3.3. and mic 1 3V 
